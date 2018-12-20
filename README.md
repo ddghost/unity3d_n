@@ -1,2 +1,2 @@
 # unity3d_n
-differnt branch have different project
+different branch have different project
